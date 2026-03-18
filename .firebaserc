@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "my-portfolio-82153"
+  },
+  "targets": {
+    "my-portfolio-82153": {
+      "hosting": {
+        "umersaddiq": [
+          "dist/"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
